@@ -73,6 +73,8 @@
 
  ## **4. Description**
 
+ ![Design](https://github.com/aratrika02/neural-network-layer/blob/main/design.jpg)
+
 Each neuron is composed of the following submodules:
 
 
